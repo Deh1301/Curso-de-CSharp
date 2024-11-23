@@ -13,7 +13,7 @@ public class Classes{
         ClassesXobjeto.classesXobjeto();
         //exercicio dados pessoa
 
-        
+        Membros.MembrosClasse();
 
     }
        
